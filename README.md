@@ -41,22 +41,22 @@ Extracted new features:
 
 ## Analysis Performed
 
-Count of patients by year and month
-Ethnicity distribution
-Comparison of obsession and compulsion scores by gender
-Trend insights from diagnosis timeline
+- Count of patients by year and month
+- Ethnicity distribution
+- Comparison of obsession and compulsion scores by gender
+- Trend insights from diagnosis timeline
 
 ## Visualizations
 
 The notebook includes:
 
 - Pie chart: Ethnicity distribution
--Bar chart: Patients diagnosed per year
+- Bar chart: Patients diagnosed per year
 - Line charts: Y-BOCS score comparison by gender
 All charts created using Matplotlib only.
 
 ## Key Findings (Summary)
 
-i) Diagnosis frequency increased significantly in later years.
-ii) Ethnicity distribution shows dominance of certain groups.
-iii) Male and female total Y-BOCS scores are close, indicating similar severity patterns.
+- Diagnosis frequency increased significantly in later years.
+- Ethnicity distribution shows dominance of certain groups.
+- Male and female total Y-BOCS scores are close, indicating similar severity patterns.
