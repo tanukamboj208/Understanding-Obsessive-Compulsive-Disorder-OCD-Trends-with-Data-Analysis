@@ -1,6 +1,6 @@
 # Understanding-Obsessive-Compulsive-Disorder-OCD-Trends-with-Data-Analysis
 This project performs exploratory data analysis (EDA) on an anonymized OCD (Obsessive-Compulsive Disorder) patient dataset using Python. The analysis focuses on trends in diagnosis dates, ethnicity distribution, and Y-BOCS severity scores.
-
+![OCD Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDORZ-dFxEm6zVYZ89i_HvjiD5zS5xHugCvA&s)
 ## Project summary
 This project cleans and analyzes a clinical dataset of patients diagnosed with Obsessive-Compulsive Disorder (OCD). Key goals:
 - Fix Excel date storage issues and extract diagnosis month/year
